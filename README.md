@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I’m+Pratham+Kumar;Full+Stack+%2B+DevOps+Engineer;Backend+%26+System+Design+Focused;Building+Scalable+Web+Systems&center=true&width=650&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I’m+Harshdeep+Singh;Full+Stack+%2B+DevOps+Engineer;Backend+%26+System+Design+Focused;Building+Scalable+Web+Systems&center=true&width=650&height=50">
 </p>
 
-<h1 align="center">🚀 Pratham Kumar</h1>
+<h1 align="center">🚀 Harshdeep Singh</h1>
 
 <h3 align="center">
 Full Stack + DevOps Engineer | B.Tech 3rd Year Student
