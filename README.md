@@ -77,11 +77,6 @@ Backend & AI Engineer | B.Tech 3rd Year Student
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=codegeekyyy&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
-
----
 
 ## 🔥 GitHub Streak
 
@@ -114,11 +109,6 @@ Backend & AI Engineer | B.Tech 3rd Year Student
 
 ---
 
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=codegeekyyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 ## 🎯 What I Focus On
 
