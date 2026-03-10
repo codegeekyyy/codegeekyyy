@@ -101,6 +101,17 @@ Backend & AI Engineer | B.Tech 3rd Year Student
 
 ![](https://github-profile-trophy.vercel.app/?username=codegeekyyy&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
+### 🥇 Earned Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
+</p>
+
+<p align="center">
+  🦈 <strong>Pull Shark</strong> &nbsp;|&nbsp; ⚡ <strong>Quickdraw</strong>
+</p>
+
 ---
 
 ## 🔝 Top Contributed Repo
