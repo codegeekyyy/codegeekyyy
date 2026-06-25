@@ -4,7 +4,7 @@
 
 <h1 align="center">🚀 Harshdeep Singh</h1>
 <h3 align="center">
-Full-Stack & AI Engineer | B.Tech CSE (3rd Year) | PSIT Kanpur
+Full-Stack & AI Engineer | B.Tech CSE (4th Year) | PSIT Kanpur
 </h3>
 
 <p align="center">
